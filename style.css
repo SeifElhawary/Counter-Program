@@ -36,5 +36,5 @@ label{
 button:hover{
     background-color: blue;
     color: white;
-    box-shadow: 10px 10px 10px green;
+    box-shadow: 5px 5px 10px green;
 }
